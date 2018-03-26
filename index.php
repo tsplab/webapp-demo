@@ -9,9 +9,12 @@
     <meta name="author" content="">
 
     <!-- Le styles -->
-    <link href="theme/yeti-bootstrap/css/bootstrap.css" rel="stylesheet">
-    
+    <link href="theme/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="theme/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <!-- 
+      <link href="theme/yeti-bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href=".theme/yeti-boostrap/css/custom.min.css" rel="stylesheet">
+    -->
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
